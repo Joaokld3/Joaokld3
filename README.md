@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://i.imgur.com/Yu7NAZ5.png)
 ---
 <h2>👋 Hola, soy Juan Diaz, me dicen João y actualmente estoy:</h2>
 
