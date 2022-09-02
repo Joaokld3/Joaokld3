@@ -1,4 +1,6 @@
 #Hola soy Juan (João)👋
+---
+En proceso de formación Full Stack, apasionado por el tema de desarrollo y programación con diferentes tecnologías, esperando pronto poner en práctica estos conocimientos.
 
 <!--
 **Joaokld3/Joaokld3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 ##Languages/technologies
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=red&labelColor=101010)]()<br>
