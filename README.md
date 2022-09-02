@@ -1,4 +1,5 @@
-#Hola soy Juan (João)👋
+#Hola 👋 soy Juan (João) y estoy:
+
 ---
 En proceso de formación Full Stack, apasionado por el tema de desarrollo y programación con diferentes tecnologías, esperando pronto poner en práctica estos conocimientos.
 
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()<br>
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br>
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+---
