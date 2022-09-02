@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 En proceso de formación Full Stack, apasionado por el tema de desarrollo y programación con diferentes tecnologías 💻, esperando pronto poner en práctica estos conocimientos. Me gustan los retos y me deselvuelvo muy bien trabajando en equipo.
 
-Dentro de mis repositorios encontrarás algunas aplicaciones realizadas con diferentes IDE's como Visual Studio Code, Netbeans e IntelliJ escritos con la sintaxis correspondiente a los lenguajes de programación menicionados abajo. 🏆 Logros personales y voy por más!
+Dentro de mis repositorios encontrarás algunas aplicaciones realizadas con diferentes IDE's como Visual Studio Code, Netbeans e IntelliJ escritos con la sintaxis correspondiente a los lenguajes de programación menicionados abajo. 🏆 Algunos logros personales, portafolio en construcción y voy por más!
 
 
 <h3>Technologies:</h3>
