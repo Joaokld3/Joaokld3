@@ -1,8 +1,3 @@
-<h2>Hola 👋 soy Juan (João) y estoy:</h2>
-
----
-En proceso de formación Full Stack, apasionado por el tema de desarrollo y programación con diferentes tecnologías, esperando pronto poner en práctica estos conocimientos.
-
 <!--
 **Joaokld3/Joaokld3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<h3>Languages/technologies:</h3>
+<h2>👋 Hola, soy Juan Diaz, me dicen João y actualmente estoy:</h2>
+
+---
+En proceso de formación Full Stack, apasionado por el tema de desarrollo y programación con diferentes tecnologías 💻, esperando pronto poner en práctica estos conocimientos. Me gustan los retos y me deselvuelvo muy bien trabajando en equipo.
+
+Dentro de mis repositorios encontrarás algunas aplicaciones realizadas con diferentes IDE's como Visual Studio Code, Netbeans e IntelliJ escritos con la sintaxis correspondiente a los lenguajes de programación menicionados abajo. 🏆 Logros personales y voy por más!
+
+
+<h3>Technologies:</h3>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=red&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=blue&labelColor=101010)]()
