@@ -1,4 +1,4 @@
-### Hi there 👋
+#Hola soy Juan (João)👋
 
 <!--
 **Joaokld3/Joaokld3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Languages/technologies
+HTML5 https://img.shields.io/badge/-HTML5-red   CSS3  JAVASCRIPT  JAVA PYTHON
